@@ -1,0 +1,19 @@
+{
+  "name": "FloatyPlane-Starter",
+  "description": "Recreating flappy bird with Expo and Three",
+  "slug": "floatyplane-gl-ster",
+  "icon": "./Assets/floaty.png",
+  "sdkVersion": "17.0.0",
+  "version": "1.0.0",
+  "orientation": "portrait",
+  "primaryColor": "#cccccc",
+  "notification": {
+    "color": "#000000"
+  },
+  "loading": {
+    "hideExponentText": false
+  },
+  "packagerOpts": {
+    "assetExts": ["ttf", "mp4"]
+  }
+}
