@@ -9,7 +9,7 @@
     "expo": "17.0.0",
     "pixi.js": "^4.1.1",
     "react": "16.0.0-alpha.6",
-    "react-native": "expo/react-native#sdk-17",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-17.0.0.tar.gz",
     "three": "^0.85.2"
   }
 }
